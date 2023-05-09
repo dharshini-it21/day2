@@ -1,0 +1,3 @@
+# day2
+
+THIS IS A COMMIT FOR DAY 2
